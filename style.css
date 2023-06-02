@@ -37,11 +37,11 @@ body{
 .tooltip{
  position: absolute;
  right: -10px;
- top: -20px;
+ top: -21px;
  background: #4070f4;
  color: #fff;
  border-radius: 2px;
- font-size: 6px;
+ font-size: 10px;
  font-weight: 500;
  padding: 2px 5px;
  z-index: 1;
